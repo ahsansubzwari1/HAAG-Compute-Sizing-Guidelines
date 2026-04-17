@@ -69,7 +69,7 @@ The exact GPU names accepted by `--gres` can drift as PACE adds hardware. If in 
 
 ## The calculator
 
-Rather than working through the tables by hand, use the calculator at [`/tools/vram-calculator/`](../tools/vram-calculator/) or [standalone LLM-GPU Sizing Calculator](https://ahsansubzwari1.github.io/HAAG-Compute-Sizing-Guidelines/02-sizing/index.html) to get a specific recommendation for **LLM inference** workloads.
+Rather than working through the tables by hand, use the calculator at [`/tools/vram-calculator/`](../tools/vram-calculator/) or [standalone LLM-GPU Sizing Calculator](https://ahsansubzwari1.github.io/HAAG-Compute-Sizing-Guidelines/tools/vram-calculator/index.html) to get a specific recommendation for **LLM inference** workloads.
 
 You tell it your model (or pick a preset — Llama, Qwen, Mistral, Mixtral, Nemotron, gpt-oss), precision, number of concurrent users, and context length. It returns:
 
