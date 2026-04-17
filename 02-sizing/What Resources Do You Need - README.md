@@ -30,9 +30,9 @@ Every resource request comes down to four numbers. Plus wall time.
 
 ## Recipes
 
-- [**Recipe 1 — LLM fine-tuning and inference**](./part-2-llm.md)
-- [**Recipe 2 — Computer vision training**](./part-2-computer-vision.md)
-- [**Recipe 3 — Classical ML and tabular work**](./part-2-classical-ml.md)
-- [**Recipe 4 — Audio and signal processing**](./part-2-audio.md)
+- [**Recipe 1 — LLM fine-tuning and inference**](./Reciple-1-llm.md)
+- [**Recipe 2 — Computer vision training**](./Reciple-2-computer-vision.md)
+- [**Recipe 3 — Classical ML and tabular work**](./Reciple-3-classical-ml.md)
+- [**Recipe 4 — Audio and signal processing**](./Reciple-4-audio.md)
 
-Every recipe ends with a "does this fit on ICE?" table. If yes, go to [Part 3](../03-pace-ice/). If no, go to [Part 4](../04-aws/).
+
