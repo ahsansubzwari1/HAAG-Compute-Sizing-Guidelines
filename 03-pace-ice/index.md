@@ -4,9 +4,9 @@ You've used [Part 2](../02-sizing/) to figure out how much VRAM, CPU, and RAM yo
 
 This section tells you how to pick. Everything else about running on ICE — logging in, partitions, storage, job submission — is already well-documented:
 
-- [Getting Started on ICE (KB0042102)](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042102)
-- [ICE Resources (KB0042095)](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042095)
-- [Open OnDemand Guide (KB0042133)](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042133)
+- [Getting Started on ICE](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042102)
+- [ICE Resources](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042095)
+- [Open OnDemand Guide](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0042133)
 - [Guru Deshpande's Intro-To-PACE-ICE](https://github.com/guru-desh/Intro-To-PACE-ICE) — practical walkthrough
 
 
