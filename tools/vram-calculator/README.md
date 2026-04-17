@@ -2,7 +2,7 @@
 
 A single-file, browser-based tool for estimating GPU memory requirements when deploying large language models (LLMs) for inference. Input your model architecture, precision format, concurrency target, and context window — get a step-by-step memory breakdown and a recommendation matrix across PACE ICE's GPU inventory.
 
-This is an ICE-specific port of the [standalone LLM-GPU Sizing Calculator](https://ahsansubzwari1.github.io/llm-gpu-sizing-calculator). The math, layout, and tooltips are identical; the GPU library has been swapped for the hardware actually available on Georgia Tech's PACE ICE cluster.
+This is an ICE-specific port of the [standalone LLM-GPU Sizing Calculator](https://ahsansubzwari1.github.io/HAAG-Compute-Sizing-Guidelines/02-sizing/index.html). The math, layout, and tooltips are identical; the GPU library has been swapped for the hardware actually available on Georgia Tech's PACE ICE cluster.
 
 **Part of the [HAAG Compute Guide](../../03-pace-ice/).**
 
