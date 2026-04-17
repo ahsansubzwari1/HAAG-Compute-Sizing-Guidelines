@@ -18,7 +18,6 @@ Three regimes cover almost everything:
 
 Long context (8K+), large batches, and full fine-tuning all push these up significantly. Start conservative and measure.
 
-> 💡 **Use [Unsloth](https://github.com/unslothai/unsloth).** Drop-in replacement for the standard training loop. 30–50% less VRAM, 2× faster. 15 minutes to set up.
 
 ### CPU cores
 
@@ -100,9 +99,5 @@ On a single A100-80GB or H100:
 
 ---
 
-## Before you submit
 
-Run your script through the [PACE Job Submission Validator](https://github.com/Human-Augment-Analytics/admin-high-performance-computing/tree/main/HPC_Job_Submission) (Zach Wallace's HAAG initiative) to catch common mistakes before the scheduler does.
-
----
 
