@@ -30,9 +30,9 @@ Every resource request comes down to four numbers. Plus wall time.
 
 ## Recipes
 
-- [**Recipe 1 — LLM fine-tuning and inference**](./Reciple-1-llm.md)
-- [**Recipe 2 — Computer vision training**](./Reciple-2-computer-vision.md)
-- [**Recipe 3 — Classical ML and tabular work**](./Reciple-3-classical-ml.md)
-- [**Recipe 4 — Audio and signal processing**](./Reciple-4-audio.md)
+- [**Recipe 1 — LLM fine-tuning and inference**](https://github.com/ahsansubzwari1/HAAG-Compute-Sizing-Guidelines/blob/main/02-sizing/Recipe-1-llm.md)
+- [**Recipe 2 — Computer vision training**]([.](https://github.com/ahsansubzwari1/HAAG-Compute-Sizing-Guidelines/blob/main/02-sizing/Reciple-2-computer-vision.md)
+- [**Recipe 3 — Classical ML and tabular work**](https://github.com/ahsansubzwari1/HAAG-Compute-Sizing-Guidelines/blob/main/02-sizing/Reciple-3-classical-ml.md)
+- [**Recipe 4 — Audio and signal processing**](https://github.com/ahsansubzwari1/HAAG-Compute-Sizing-Guidelines/blob/main/02-sizing/Reciple-4-audio.md)
 
 
