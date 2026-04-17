@@ -25,7 +25,7 @@ The heart of the guide. Introduces the four-number framework and walks through f
 
 ### [Part 3 — Choosing a GPU on ICE](03-pace-ice/)
 
-A narrow, focused reference for picking a specific GPU out of ICE's eleven GPU types. Covers the reserved-node realities (H100/H200 capacity is tighter than it looks) and includes the **[LLM-GPU Sizing Calculator](tools/vram-calculator/)** for inference deployments.
+A narrow, focused reference for picking a specific GPU out of ICE's eleven GPU types. Covers the reserved-node realities (H100/H200 capacity is tighter than it looks) and includes the **[LLM-GPU Sizing Calculator](https://ahsansubzwari1.github.io/HAAG-Compute-Sizing-Guidelines/02-sizing/index.html)** for inference deployments.
 
 ### [Part 4 — AWS Reference](04-aws/)
 
