@@ -4,7 +4,7 @@ A single-file, browser-based tool for estimating GPU memory requirements when de
 
 This is an ICE-specific port of the [standalone LLM-GPU Sizing Calculator](https://ahsansubzwari1.github.io/HAAG-Compute-Sizing-Guidelines/02-sizing/index.html). The math, layout, and tooltips are identical; the GPU library has been swapped for the hardware actually available on Georgia Tech's PACE ICE cluster.
 
-**Part of the [HAAG Compute Guide](../../03-pace-ice/).**
+**Part of the [HAAG Compute Guide](https://github.com/ahsansubzwari1/HAAG-Compute-Sizing-Guidelines/blob/main/README.md).**
 
 ---
 
