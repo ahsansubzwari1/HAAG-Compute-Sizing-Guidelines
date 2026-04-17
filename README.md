@@ -19,15 +19,15 @@ The guide gives you a framework (the "four numbers"), a set of recipes for commo
 
 ## How the guide is structured
 
-### [Part 2 — Sizing Your Workload](02 - What Resources Do you Need - Sizing/)
+### [Part 2 — Sizing Your Workload](https://github.com/ahsansubzwari1/HAAG-Compute-Sizing-Guidelines/tree/main/02%20-%20What%20Resources%20Do%20You%20Need%20-%20Sizing)
 
 The heart of the guide. Introduces the four-number framework and walks through four recipes — LLM, computer vision, classical ML, audio — each ending with a "does this fit on ICE?" verdict table.
 
-### [Part 3 — Choosing a GPU on ICE](03 - Choosing Your ICE GPU/)
+### [Part 3 — Choosing a GPU on ICE](https://github.com/ahsansubzwari1/HAAG-Compute-Sizing-Guidelines/tree/main/03%20-%20Choosing%20Your%20ICE%20GPU)
 
 A narrow, focused reference for picking a specific GPU out of ICE's eleven GPU types. Covers the reserved-node realities (H100/H200 capacity is tighter than it looks) and includes the **[LLM-GPU Sizing Calculator](https://ahsansubzwari1.github.io/HAAG-Compute-Sizing-Guidelines/tools/vram-calculator/index.html)** for inference deployments.
 
-### [Part 4 — AWS Reference Guide](04 - When to go to AWS/)
+### [Part 4 — AWS Reference Guide](https://github.com/ahsansubzwari1/HAAG-Compute-Sizing-Guidelines/tree/main/04%20-%20When%20to%20go%20to%20AWS)
 
 Brief reference for when a workload can't fit on ICE. Covers EC2 instance families and AWS storage (S3, EBS, FSx Lustre), with a one-line cost warning at the end.
 
